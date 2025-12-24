@@ -1,4 +1,4 @@
-# 👨‍💻 Seja bem-vindo(a) ao meu GitHub!
+# 👨‍💻 Seja bem-vindo(a)!
 
 **`Desenvolvedor FullStack`**
 
