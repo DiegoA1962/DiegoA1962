@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Eu Me chamo Diego Alves , sou natural de Brasília . Concluí o ensino médio no CNB. Atualmente, estou cursando Tecnologia em Sistemas para Internet no IFB. 
+Eu Me chamo Diego Alves , sou natural de Brasília . Concluí o ensino médio no CNBNB. Atualmente, estou cursando Tecnologia em Sistemas para Internet no IFB. 
 
 
 ### 🤖 Linguagens e Tecnologias
