@@ -18,7 +18,7 @@ Oii! Eu Me chamo Diego Alves , sou natural de Brasília . Concluí o meu Ensino 
 
 <div align="center">
   
-  <b>`Full Stack Developer 🩷`</b>
+  <b>`Full Stack Developer 🥰`</b>
   <samp>
       <br>
       Hi there! I'm <b>Diego Alves</b>
