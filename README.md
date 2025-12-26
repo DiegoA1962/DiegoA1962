@@ -8,7 +8,33 @@ Oii! Eu Me chamo Diego Alves , sou natural de Brasília . Concluí o meu Ensino 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<br>
+<br>
+<br>
 
+<div align="center">
+  <img align="center" height="150" src="https://www.anamelim.com.br/wp-content/uploads/2024/04/stitch-coracao-jpg.png" />
+</div>
+
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Diego Alves</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>     
+<div align="center">
+ 
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diego&theme=maroongold"/>
+</div>
 
 ### 🤖 Linguagens e Tecnologias
 <img 
