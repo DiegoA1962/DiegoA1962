@@ -142,7 +142,24 @@ Oii! Eu Me chamo Diego Alves , sou natural de Brasília . Concluí o meu Ensino 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL Logo" title="MySQL" />
   <img width="12" />
 </div>
+
 <br clear="both">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/diegoa1962/diegoa1962/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/diegoa1962/diegoa1962/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/diegoa1962/diegoa1962/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<br><br>
 
 
 
