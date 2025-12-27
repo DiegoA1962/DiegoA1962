@@ -144,7 +144,7 @@ Oii! Eu Me chamo Diego Alves , sou natural de Brasília . Concluí o meu Ensino 
 </div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
+
 
 
 
